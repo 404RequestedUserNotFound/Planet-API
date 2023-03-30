@@ -1,1 +1,1 @@
-# Planet-API for aliens 👽
+# Planet-API 👽
